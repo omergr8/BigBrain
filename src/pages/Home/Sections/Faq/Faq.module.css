@@ -30,6 +30,7 @@
 .accordionQuestion {
   color: white;
   font-weight: 500 !important;
+  text-align: left !important;
 }
 .accordionText {
   font-weight: 500 !important;
