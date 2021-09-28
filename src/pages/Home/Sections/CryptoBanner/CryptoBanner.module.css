@@ -1,0 +1,17 @@
+.main {
+  background-color: white;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* .container p {
+  font-size: 24px;
+  line-height: 30px;
+}
+.container p span {
+  font-weight: 600;
+} */

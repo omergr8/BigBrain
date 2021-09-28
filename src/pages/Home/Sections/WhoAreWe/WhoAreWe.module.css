@@ -1,0 +1,66 @@
+.main {
+}
+.container {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.flex1 {
+  flex-basis: 40%;
+}
+.flex1 h1 {
+  font-size: 46px;
+  text-transform: uppercase;
+}
+.flex1 p {
+  font-size: 18px;
+  line-height: 30px;
+}
+.officialButton {
+  background: linear-gradient(to bottom right, #d83899, #ff238e) !important;
+  color: white !important;
+  border-radius: 30px !important;
+  min-height: 52px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+.flex2 {
+  flex-basis: 50%;
+}
+.imageFlex {
+  position: relative;
+  width: 100%;
+}
+.image1 {
+  position: relative;
+  z-index: 10;
+  padding-top: 60px;
+  padding-right: 20%;
+  width: 60%;
+}
+.image2 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 60%;
+  z-index: 1;
+}
+@media screen and (max-width: 980px) {
+  .flex {
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+  }
+  .flex1 {
+    flex-basis: 100%;
+  }
+  .flex2 {
+    flex-basis: 100%;
+  }
+}

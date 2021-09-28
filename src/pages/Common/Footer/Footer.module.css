@@ -1,0 +1,42 @@
+.mainFooter {
+  background: rgba(17, 17, 17, 0.877);
+  color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.container {
+  text-align: center;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex div {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.icon {
+  font-size: 50px;
+  color: white;
+}
+
+.secondaryFooter {
+  background: linear-gradient(to bottom right, #d83899, #ff238e) !important;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.secondaryText {
+  color: rgb(190, 190, 190);
+}
+.secondaryText span {
+  color: white;
+}

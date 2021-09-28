@@ -1,0 +1,17 @@
+.main {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.iconsFlex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconsFlex div {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.icon {
+  font-size: 100px;
+  color: #d83899;
+}
