@@ -1,7 +1,7 @@
 import classes from "./WhoAreWe.module.css";
 import Button from "@mui/material/Button";
-import Avatar1 from "../../../../Assets/avatar1.png";
-import Avatar2 from "../../../../Assets/avatar2.png";
+import Avatar1 from "../../../../Assets/avatar1_1.png";
+import Avatar2 from "../../../../Assets/avatar2_1.png";
 
 const WhoAreWe = () => {
   return (

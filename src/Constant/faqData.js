@@ -1,182 +1,38 @@
 export const faqData = [
   {
     question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "How many BigBrains can I mint?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "How do I get a BigBrains?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "What is BigBrains?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "What is the future of BigBrains?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "Where does BigBrains donate to?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "Can I buy on Mobile?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "What is the smart contract address of BigBrains?",
+    text: "",
   },
   {
-    question: "When will minting begin?",
-    text: (
-      <div>
-        <p>
-          Presale begins on September 7th @5PM EST.
-          <br />
-          <br />
-          Public Launch begins on September 10th @5PM EST.
-          <br />
-          <br />
-          Our amazing team has been working extremely hard for the past 4 1/2
-          months to bring this to life & the time is finally almost here!
-          <br />
-          <br />
-          Follow us on Twitter & join our Discord to stay updated!
-        </p>
-      </div>
-    ),
+    question: "Contact us here",
+    text: "",
   },
 ];
