@@ -4,6 +4,7 @@ import team from "../../../../Assets/team.png";
 import member1 from "../../../../Assets/member1.jpeg";
 import member2 from "../../../../Assets/member2.jpeg";
 import member3 from "../../../../Assets/member3.png";
+import member4 from "../../../../Assets/member4.png";
 const data = [
   {
     name: "StackinNFTz",
@@ -16,6 +17,12 @@ const data = [
     text: "Degree in Entrepreneurship with experience in multi level business development. Worked with startups and participated in business consulting. Former Amazon employee. Started NFT trading this last year and found a passion for starting up his own.",
     image: member2,
     twitter: "https://twitter.com/FlippaNft",
+  },
+  {
+    name: "Exion",
+    text: "Crypto Veteran of 9 years touching all aspects. Multiple token and NFT launches along with providing consulting support to multiple other projects.",
+    image: member4,
+    twitter: "",
   },
   {
     name: "Dr. Jones",

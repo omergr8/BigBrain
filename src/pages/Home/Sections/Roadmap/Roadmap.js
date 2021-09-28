@@ -8,12 +8,12 @@ const Roadmap = () => {
           <h2 className={classes.mainHeading}>Roadmap</h2>
           <h3 className={classes.secondaryHeading}>Season 1</h3>
           <p>
-            {/* As we get closer to launch we think you'll be a little mind blown by
-            the things we got planned! OG Big Brains in our discord may even
-            have some say over the things we do. A bunch of Big Brains is always
-            better than one, right? */}
+            Brainstorming. As we get closer to launch we think you'll be a
+            little mind blown by the things we got planned! OG Big Brains in our
+            discord may even have some say over the things we do. A bunch of Big
+            Brains is always better than one, right?
           </p>
-          <p>#Brainstorming</p>
+          {/* <p>#Brainstorming</p> */}
         </div>
         <div className={classes.main}>
           <ul className={classes.timeline}>

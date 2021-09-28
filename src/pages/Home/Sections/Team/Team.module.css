@@ -30,10 +30,12 @@
 }
 .flexItem {
   flex-basis: 30%;
+  /* height: 600px; */
 }
 .founderAvatar {
 }
 .founderText {
+  min-height: 200px;
 }
 .founderText h2 {
   text-transform: capitalize;
