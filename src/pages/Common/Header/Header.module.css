@@ -22,10 +22,14 @@
   align-items: center;
   justify-content: space-between;
 }
+.flex1 {
+  /* flex-basis: 18%; */
+}
 .flex1 img {
   padding-top: 20px;
 }
 .flex2 {
+  flex-basis: 49%;
 }
 .linksFlex {
   display: flex;
@@ -55,6 +59,7 @@
   transform: scaleX(1);
 }
 .flex3 {
+  /* flex-basis: 0%; */
 }
 .hamIcon {
   display: none;
@@ -92,6 +97,11 @@ sidebar css */
 }
 .cartIcon {
   cursor: pointer;
+}
+@media screen and (max-width: 1280px) {
+  .flex2 {
+    flex-basis: 60%;
+  }
 }
 @media screen and (max-width: 1080px) {
   .hamIcon {
