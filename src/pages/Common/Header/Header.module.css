@@ -29,7 +29,7 @@
   padding-top: 20px;
 }
 .flex2 {
-  flex-basis: 48.2%;
+  /* flex-basis: 48.2%; */
 }
 .linksFlex {
   display: flex;
@@ -60,7 +60,7 @@
 }
 .flex3 {
   /* flex-basis: 0%; */
-  /* width: 100px; */
+  width: 100px;
 }
 .hamIcon {
   display: none;
@@ -101,7 +101,7 @@ sidebar css */
 }
 @media screen and (max-width: 1280px) {
   .flex2 {
-    flex-basis: 60%;
+    /* flex-basis: 60%; */
   }
 }
 @media screen and (max-width: 1080px) {
