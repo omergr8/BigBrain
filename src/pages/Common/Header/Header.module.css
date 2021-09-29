@@ -29,7 +29,7 @@
   padding-top: 20px;
 }
 .flex2 {
-  flex-basis: 49%;
+  flex-basis: 48.2%;
 }
 .linksFlex {
   display: flex;
@@ -60,6 +60,7 @@
 }
 .flex3 {
   /* flex-basis: 0%; */
+  /* width: 100px; */
 }
 .hamIcon {
   display: none;
